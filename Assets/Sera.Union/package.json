@@ -1,0 +1,23 @@
+{
+  "name": "net.sera.union",
+  "displayName": "Sera.Union",
+  "version": "0.7.0",
+  "unity": "2022.3",
+  "description": "Tagged union for c#",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sera-net/Sera.Union.git"
+  },
+  "keywords": [
+    "unity",
+    "utility",
+    "union"
+  ],
+  "author": "sera-net",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sera-net/Sera.Union/issues"
+  },
+  "homepage": "https://github.com/sera-net/Sera.Union#readme"
+}
